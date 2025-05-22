@@ -9,7 +9,7 @@ Here are the top 4 most common reasons your pillow keeps going flat and what you
 ## 1. Low-Quality Filling Materials
 
 The number one reason pillows go flat is due to cheap or low-quality filling materials. Many budget pillows are stuffed with synthetic fibers that compress easily under weight and lose their bounce-back ability over time.
-![Pillows on bed](feature image.png)
+![Pillows on bed]([feature image.png](https://github.com/EricWilson89/Top-4-Most-Common-Reasons-Why-Your-Pillow-Always-Goes-Flat/blob/main/feature%20image.png))
 
 **Why it happens:**
 
@@ -38,7 +38,7 @@ Even high-quality pillows need a little TLC. If you never fluff or rotate your p
 - Make a habit of fluffing your pillow daily, shaking and kneading it to restore volume.  
 - Rotate and flip your pillow weekly to avoid wear in the same spot.
 
-![Pillows on bed](01 (15).jpg)
+![Pillows on bed]([01 (15).jpg](https://github.com/EricWilson89/Top-4-Most-Common-Reasons-Why-Your-Pillow-Always-Goes-Flat/blob/main/01%20(15).jpg))
 ---
 
 ## 3. Moisture and Sweat Build-Up
